@@ -26,7 +26,7 @@
     "discord.js": "12.5.3",
     "framer-motion": "^4.1.17",
     "js-yaml": "^4.1.0",
-    "next": "^13.5.4",
+    "next": "^12.3.1",
     "node-fetch": "^3.3.0",
     "pdfjs-dist": "^2.9.359",
     "playwright-aws-lambda": "^0.9.0",
@@ -35,13 +35,11 @@
     "react-device-detect": "^2.2.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.2.0",
-    "react-markdown": "^8.0.3",
-    "yarn": "^1.22.19"
+    "react-markdown": "^8.0.3"
   },
   "devDependencies": {
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.0",
-    "gh-pages": "^6.0.0",
     "playwright": "^1.14.0"
   }
 }
