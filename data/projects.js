@@ -57,6 +57,43 @@ const projectSections = [
       },
     ],
   },
+  {
+    title: "Undergraduate Teaching Experience",
+    data: [
+      {
+        tags: ["python", "data science", "stat"],
+        bgImage: "/img/datascidisc.png",
+        description: "On DISCOVERY Staff, I worked on ideating, writing, and publishing new microprojects bi-weekly in a team of 3, primarily working on VS-Code. I additionally helped lead office hours once a week, and at least one lab section every week as well!",
+        title: "STAT 107: Data Science Discovery",
+        subtext: "Course Assistant - MicroProject Development, January 2023 - June 2023",
+        buttons: [{ href: "https://datasciencediscovery.com/", type: "link", text: "STAT 107 Homepage" }],
+      },
+      {
+        tags: ["python", "prairielearn", "math"],
+        bgImage: "/img/math257.png",
+        description: `On MATH257 Staff, I worked on ideating and writing new midterm problems over the summer, primarily on PrairieLearn's (prairielearn.com) HTML formatted database of questions, answered and tested by over 300 students taking the course. In the fall, I work on lab sections, office hours, and Python development.`,
+        title: "MATH 257: Linear Algebra w/ Computational Applications",
+        subtext: "Course Assistant - PrairieLearn Development, May 2023 - Present",
+        buttons: [{ href: "https://netmath.illinois.edu/summer/math-257", type: "link", text: "MATH 257 Homepage" }],
+      },
+      {
+        tags: ["Java", "Kotlin", "Android Studio", "cs"],
+        bgImage: "/img/cs124uiuc.png",
+        description: `I'm a Kotlin and Java tutor on the CS124 Staff, with my main responsibilites lying around scheduling online helpsite hours, mentoring my assistants, and leading in-person help sessions once a week!`,
+        title: "CS 124: Introduction to Computer Science I",
+        subtext: "Course Associate, August 2023 - Present; Course Assistant, January 2023 - July 2023",
+        buttons: [{ href: "https://www.cs124.org/", type: "link", text: "CS 124 Homepage" }],
+      },
+      {
+        tags: ["electronics", "circuits", "algebra", "ece"],
+        bgImage: "/img/ece110uiuc.jpeg",
+        description: `I am one of nine graders on ECE 110 Staff, working every week to provide meaningful feedback on GradeScope assessments to over 50 students!`,
+        title: "ECE 110: Introduction to Electronics",
+        subtext: "Course Grader, January 2023 - Present",
+        buttons: [{ href: "https://courses.engr.illinois.edu/ece110/fa2023/", type: "link", text: "ECE 110 Homepage" }],
+      },
+    ],
+  },
 //   {
 //     title: "Cool Projects",
 //     details: "My favorite projects that are here because they're cool 😎",
