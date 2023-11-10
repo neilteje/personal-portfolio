@@ -39,7 +39,7 @@ const Pages = () => {
   const LINKS = [
     { name: "Experience", href: "/#projects" },
     { name: "Contact", href: "#contact" },
-    { name: "Blog (coming soon!)", href: "https://nectarine-groundhog-3kf7.squarespace.com" },
+    { name: "Blog (new!)", href: "https://nectarine-groundhog-3kf7.squarespace.com" },
   ];
 
   const router = useRouter();
