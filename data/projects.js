@@ -42,7 +42,7 @@ const projectSections = [
       {
         tags: ["python", "typescript", "tensorflow", "bash", "linux"],
         bgImage: "/img/forcepoint.jpg",
-        description: `At Forcepoint, I primarily worked on a project to convert user-desktop window classifications to keyboard/peripheral colors on RGB devices in order to prevent the entering of sensitive information in unclassified areas/text fields on the TTC-3.2 Linux Client,`,
+        description: `At Forcepoint, I primarily worked on a project to convert user-desktop window classifications to keyboard/peripheral colors on RGB devices in order to prevent the entering of sensitive information in unclassified areas/text fields on the TTC-3.2 Linux Client.`,
         title: "Forcepoint",
         subtext: "Software Engineer Intern - Cross Domain TTC Enginering, May 2023 - August 2023",
         buttons: [{ href: "https://www.forcepoint.com/", type: "link", text: "Forcepoint Homepage" }],
